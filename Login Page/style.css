@@ -96,5 +96,5 @@ button {
 }
 
 button:hover {
-    background-color: #606364;
+    background-color: hsla(190, 3%, 46%, 0.5);
 }
